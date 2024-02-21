@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\congestion-tax-calculatorWebApi.props" />
+</Project>

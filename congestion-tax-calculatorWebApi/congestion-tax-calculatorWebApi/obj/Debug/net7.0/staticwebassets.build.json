@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iE3DzWa8PZVtVUielMuqj6JCTaGqgUujjuiVuOXR6FQ=",
+  "Source": "congestion-tax-calculatorWebApi",
+  "BasePath": "_content/congestion-tax-calculatorWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
